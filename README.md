@@ -9,7 +9,7 @@ Here I am training several neural network architectures and recording the minimu
 
 # Data
 
-MNIST and CIFAR10
+MNIST and CIFAR10 downloaded from `torchvision`
 
 # Models
 
