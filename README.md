@@ -26,6 +26,6 @@ MNIST and CIFAR10 downloaded from `torchvision`
 * Networks are written using `PyTorch` and `PyTorch Lightning` for training. Right now they may not be written in the most efficient way, will eventually be cleaned up and optimized (hopefully).
 
 # Notes
-* When running must use the syntax 'python script.py (number of epochs) (scaling parameter) (optional: ckpt_path)'
+* When running must use the syntax `python script.py (number of epochs) (scaling parameter) (optional: ckpt_path)`
 * To run on gpu, the `gpus = -1` flag in the `pl.Trainer` must be included.
 
